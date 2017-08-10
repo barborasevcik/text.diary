@@ -1,0 +1,2 @@
+# text.diary
+everyday notes
